@@ -1,0 +1,10 @@
+import java.util.*;
+class Main{
+  public static void main(String[]args){
+    Scanner sx=new Scanner(System.in);
+    int a=sx.nextInt();
+    int b=sx.nextInt();
+    int x=a*b;
+    System.out.print(x);
+  }
+}
